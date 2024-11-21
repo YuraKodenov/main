@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>YKodenov</id>
+    <version>1.0.0</version>
+    <authors>Коденьов Юрій Дмитрович</authors>
+    <description>CLI application for running Lab3</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.dll" target="tools\net8.0\any\lab4.dll" />
+    <file src="C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.deps.json" target="tools\net8.0\any\lab4.deps.json" />
+    <file src="C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.runtimeconfig.json" target="tools\net8.0\any\lab4.runtimeconfig.json" />
+    <file src="C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.pdb" target="tools\net8.0\any\lab4.pdb" />
+    <file src="C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net8.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\Library.dll" target="tools\net8.0\any\Library.dll" />
+    <file src="C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\Library.pdb" target="tools\net8.0\any\Library.pdb" />
+  </files>
+</package>

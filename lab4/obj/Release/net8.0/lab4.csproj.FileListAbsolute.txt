@@ -1,0 +1,27 @@
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/bin/Release/net8.0/lab4.exe
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/bin/Release/net8.0/lab4.deps.json
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/bin/Release/net8.0/lab4.runtimeconfig.json
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/bin/Release/net8.0/lab4.dll
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/bin/Release/net8.0/lab4.pdb
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/bin/Release/net8.0/McMaster.Extensions.CommandLineUtils.dll
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/bin/Release/net8.0/Library.dll
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/bin/Release/net8.0/Library.pdb
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.csproj.AssemblyReference.cache
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.AssemblyInfoInputs.cache
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.AssemblyInfo.cs
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.csproj.CoreCompileInputs.cache
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.csproj.Up2Date
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.dll
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/refint/lab4.dll
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.pdb
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/lab4.genruntimeconfig.cache
+C:/Users/yurka/OneDrive/Рабочий стол/main/lab4/obj/Release/net8.0/ref/lab4.dll
+/home/vagrant/lab4/lab4/obj/Release/net8.0/lab4.csproj.AssemblyReference.cache
+/home/vagrant/lab4/lab4/obj/Release/net8.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/vagrant/lab4/lab4/obj/Release/net8.0/lab4.AssemblyInfoInputs.cache
+/home/vagrant/lab4/lab4/obj/Release/net8.0/lab4.AssemblyInfo.cs
+/home/vagrant/lab4/lab4/obj/Release/net8.0/lab4.csproj.CoreCompileInputs.cache
+/home/vagrant/lab4/lab4/obj/Release/net8.0/lab4.dll
+/home/vagrant/lab4/lab4/obj/Release/net8.0/refint/lab4.dll
+/home/vagrant/lab4/lab4/obj/Release/net8.0/lab4.pdb

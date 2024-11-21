@@ -1,0 +1,22 @@
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/bin/Debug/net8.0/Library.deps.json
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/bin/Debug/net8.0/Library.dll
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/bin/Debug/net8.0/Library.pdb
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/obj/Debug/net8.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/obj/Debug/net8.0/Library.AssemblyInfoInputs.cache
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/obj/Debug/net8.0/Library.AssemblyInfo.cs
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/obj/Debug/net8.0/Library.csproj.CoreCompileInputs.cache
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/obj/Debug/net8.0/Library.dll
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/obj/Debug/net8.0/refint/Library.dll
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/obj/Debug/net8.0/Library.pdb
+C:/Users/yurka/OneDrive/Рабочий стол/main/Library/obj/Debug/net8.0/ref/Library.dll
+/home/vagrant/lab4/Library/bin/Debug/net8.0/Library.deps.json
+/home/vagrant/lab4/Library/bin/Debug/net8.0/Library.dll
+/home/vagrant/lab4/Library/bin/Debug/net8.0/Library.pdb
+/home/vagrant/lab4/Library/obj/Debug/net8.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/vagrant/lab4/Library/obj/Debug/net8.0/Library.AssemblyInfoInputs.cache
+/home/vagrant/lab4/Library/obj/Debug/net8.0/Library.AssemblyInfo.cs
+/home/vagrant/lab4/Library/obj/Debug/net8.0/Library.csproj.CoreCompileInputs.cache
+/home/vagrant/lab4/Library/obj/Debug/net8.0/Library.dll
+/home/vagrant/lab4/Library/obj/Debug/net8.0/refint/Library.dll
+/home/vagrant/lab4/Library/obj/Debug/net8.0/Library.pdb
+/home/vagrant/lab4/Library/obj/Debug/net8.0/ref/Library.dll

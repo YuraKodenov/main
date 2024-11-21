@@ -1,0 +1,8 @@
+C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.exe
+C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.dll
+C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.deps.json
+C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.runtimeconfig.json
+C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\lab4.pdb
+C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\Library.dll
+C:\Users\yurka\OneDrive\Рабочий стол\main\lab4\bin\Release\net8.0\publish\Library.pdb
